@@ -1,4 +1,4 @@
-# defcon-quals-2020-whoooo-are-u
+# defcon-quals-2020-whooo-are-u
 My work on the whooo-are-u ctf challenge
 
 ### Background 
